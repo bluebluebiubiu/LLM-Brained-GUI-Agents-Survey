@@ -510,7 +510,13 @@
         "Paper_Url": "https://arxiv.org/abs/2503.07919",
         "Highlight": "Emphasizes interaction with live web pages and includes multimodal tasks (e.g., video, audio, 3D) that cannot be solved by text-only methods, addressing limitations of prior benchmarks relying on static or simulated environments.",
         "Code_Url": "https://bear-cubs.github.io"
+    },
+    {
+        "Name": "ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows",
+        "Platform": "Desktop",
+        "Date": "May 2025",
+        "Paper_Url": "https://arxiv.org/abs/2505.19897",
+        "Highlight": "A first-of-its-kind evaluation platform for multimodal agents in scientific workflows.",
+        "Code_Url": "https://github.com/OS-Copilot/ScienceBoard"
     }
-    
-    
 ]
